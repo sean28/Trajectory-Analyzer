@@ -50,19 +50,24 @@ TrajectoryAnalyzer/
 ## 🖥 System Requirements
 Linux or macOS
 
-## 📦 Installation
+## 📦 Installation & Activate the Environment
 ### Linux
+```
 tar -xzf LINUX_gromacs_env.tar.gz
-### MacOS
-tar -xzf MAC_gromacs_env.tar.gz
-### Activate the Environment
 source LINUX_gromacs_env/bin/activate
+```
+### MacOS
+```
+tar -xzf MAC_gromacs_env.tar.gz
 source MAC_gromacs_env/bin/activate
+```
 
 ## 🚀 Launching the Web Interface
+```
 unzip traj_package.zip
 cd traj_package/
 python app-traj-analysis.py
+```
 
 The TrajectoryAnalyzer interface will be available at: http://localhost:8082
 
