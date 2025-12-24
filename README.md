@@ -67,9 +67,9 @@ source MAC_gromacs_env/bin/activate
 unzip traj_package.zip
 cd traj_package/
 python app-traj-analysis.py
+The interface will be available at: http://localhost:8082
 ```
 
-The TrajectoryAnalyzer interface will be available at: http://localhost:8082
 
 
 
