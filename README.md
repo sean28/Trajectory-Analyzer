@@ -20,7 +20,7 @@ This project provides a web-based UI for common MD trajectory analyses, backed b
 
 ## 📁 Repository Structure
 
-```text
+```
 TrajectoryAnalyzer/
 ├── app-traj-analysis.py
 ├── gmx_ai.py
@@ -45,14 +45,17 @@ TrajectoryAnalyzer/
 │   └── MAC_gromacs_env.tar.gz
 ├── traj_package.zip
 └── README.md
-# 🖥 System Requirements
+```
+
+## 🖥 System Requirements
 Linux or macOS
-# 📦 Installation
-## Linux
+
+## 📦 Installation
+### Linux
 tar -xzf LINUX_gromacs_env.tar.gz
-## MacOS
+### MacOS
 tar -xzf MAC_gromacs_env.tar.gz
-## Activate the Environment
+### Activate the Environment
 source LINUX_gromacs_env/bin/activate
 source MAC_gromacs_env/bin/activate
 
